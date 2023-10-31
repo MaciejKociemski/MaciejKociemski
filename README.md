@@ -10,10 +10,16 @@
   
 </div>
 
+---
 <div align="center">
+   <a href="https://github.com/MaciejKociemski?tab=repositories">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+   </a>
 </div>
 
+---
+
+### :woman_technologist: About Me :
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
