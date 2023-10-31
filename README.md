@@ -11,6 +11,7 @@
 </div>
 
 ---
+
 <div align="center">
    <a href="https://github.com/MaciejKociemski?tab=repositories">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
