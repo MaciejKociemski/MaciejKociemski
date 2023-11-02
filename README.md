@@ -14,13 +14,7 @@
   
 </div>
 
----
 
-<div align="center">
-   <a href="https://github.com/MaciejKociemski?tab=repositories">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
-   </a>
-</div>
 
 ---
 
@@ -31,7 +25,7 @@
 
 ---
 
-### :writing_hand: some words :
+### :writing_hand: Some story:
 <h4>
 I am over 50 years old. I worked for a dozen years in a consumer finance corporation, starting as a sales representative to macro-regional and regional director.  For the last 3 years I have been involved in various subjects including statistics and data analysis. For several years I ran my own catering business with delivery and in-house cooking. I am trying to find my place. I attended a year-long Full Stack Developer course where I learned how to become a frontend developer. I learned HTML, CSS, Java Script as well as React and Node.js. I don't have much trouble absorbing such technical knowledge. I tried my hand as a software tester.</h4>
 ---
