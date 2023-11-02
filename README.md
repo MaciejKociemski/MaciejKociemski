@@ -10,8 +10,6 @@
   <a href="https://github.com/MaciejKociemski?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
-  
-  
 </div>
 
 
@@ -25,10 +23,6 @@
 
 ---
 
-### :writing_hand: Some story:
-<h4>
-I am over 50 years old. I worked for a dozen years in a consumer finance corporation, starting as a sales representative to macro-regional and regional director.  For the last 3 years I have been involved in various subjects including statistics and data analysis. For several years I ran my own catering business with delivery and in-house cooking. I am trying to find my place. I attended a year-long Full Stack Developer course where I learned how to become a frontend developer. I learned HTML, CSS, Java Script as well as React and Node.js. I don't have much trouble absorbing such technical knowledge. I tried my hand as a software tester.</h4>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -50,4 +44,14 @@ I am over 50 years old. I worked for a dozen years in a consumer finance corpora
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=maciejkociemski&theme=dark&hide_border=false&border_radius=10 )](https://git.io/streak-stats)
 
+
+---
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejkociemski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Some story:
+<h4>
+I am over 50 years old. I worked for a dozen years in a consumer finance corporation, starting as a sales representative to macro-regional and regional director.  For the last 3 years I have been involved in various subjects including statistics and data analysis. For several years I ran my own catering business with delivery and in-house cooking. I am trying to find my place. I attended a year-long Full Stack Developer course where I learned how to become a frontend developer. I learned HTML, CSS, Java Script as well as React and Node.js. I don't have much trouble absorbing such technical knowledge. I tried my hand as a software tester.</h4>
