@@ -46,12 +46,10 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaciejKociemski&theme=dark&hide_border=false&border_radius=10 )](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=MaciejKociemski&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaciejKociemski&theme=dark&show_icons=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejKociemski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejKociemski&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
