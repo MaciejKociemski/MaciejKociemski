@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-
+- I'm still improving my skills 
 - I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-myprofil-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/maciej-kociemski)
 
